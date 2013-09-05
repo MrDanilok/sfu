@@ -1,4 +1,0 @@
-sfu
-===
-
-sfu student code
